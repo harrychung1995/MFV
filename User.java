@@ -48,4 +48,10 @@ public class User
         // put your code here
         this.username = username;
     }
+    
+    public String getPassword()
+    {
+        // put your code here
+        return password;
+    }
 }
