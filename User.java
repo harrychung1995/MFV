@@ -54,4 +54,10 @@ public class User
         // put your code here
         return password;
     }
+    
+    public void setPassword(String password)
+    {
+        // put your code here
+        this.password = password;
+    }
 }
